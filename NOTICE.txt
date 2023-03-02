@@ -26,4 +26,8 @@ The following tools and components are required:
 	- Lombok 1.18.8
 	- UMLet 14.3
 
+The contributors of this project are:
+
+-Saúl Rodríguez Naranjo (saul.rodriguez.naranjo@gmail.com)
+
 
